@@ -10,7 +10,7 @@
 
   
   ### :fire: Meus status:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoaoferreiraCP&theme=monokai&margin-w=5&margin-h=5&rank=-?,-C" alt="JoaoferreiraCP" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoaoferreiraCP&theme=chalk&margin-w=5&margin-h=5&no-frame=true" alt="JoaoferreiraCP" /></a> </p>
   
 ### :hammer_and_wrench: Linguagens e ferramentas
 
